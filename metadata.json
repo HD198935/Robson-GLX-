@@ -1,0 +1,5 @@
+{
+  "name": "EcoSafe HST & Meio Ambiente",
+  "description": "Plataforma moderna para gestão de Higiene, Segurança no Trabalho e Monitoramento Ambiental.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
